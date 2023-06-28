@@ -7,6 +7,13 @@ If you think you can , you can. Connect with me here -
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_meettyj@163.com)](mailto:find_meettyj@163.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/yovvis/nav/main/static/makeafriend.jpg)
 
+My blog here ~
+
+[![掘金](https://img.shields.io/badge/Juejin-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://juejin.cn/user/776699375262679)
+[![CSDN](https://img.shields.io/badge/CSDN-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.csdn.net/losthief?spm=1010.2135.3001.5343)
+
+
+
 - 🚀 I use daily:
   [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)]()
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)]()
