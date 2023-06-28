@@ -5,7 +5,7 @@
 If you think you can , you can. Connect with me here -
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_meettyj@163.com)](mailto:find_meettyj@163.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/yovvis/nav/main/static/makeafriend.jpg")
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/yovvis/nav/main/static/makeafriend.jpg)
 
 - 🚀 I use daily:
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]()
@@ -111,7 +111,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yovvis/c
 
 <br/>
 <div align="center">
-  <a href="https://github.com/yovvis/nav/blob/main/static/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+  <a href="https://raw.githubusercontent.com/yovvis/nav/main/static/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
