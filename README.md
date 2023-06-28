@@ -9,8 +9,8 @@ If you think you can , you can. Connect with me here -
 
 My blog here ~
 
-[![掘金](https://img.shields.io/badge/Juejin-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://juejin.cn/user/776699375262679)
-[![CSDN](https://img.shields.io/badge/CSDN-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.csdn.net/losthief?spm=1010.2135.3001.5343)
+[![掘金](https://raw.githubusercontent.com/yovvis/nav/main/static/icon32/juejin.png)](https://juejin.cn/user/776699375262679)
+[![CSDN](https://raw.githubusercontent.com/yovvis/nav/main/static/icon32/csdn.png)](https://blog.csdn.net/losthief?spm=1010.2135.3001.5343)
 
 
 
