@@ -28,10 +28,7 @@ If you think you can , you can. Connect with me here -
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)]()
 
 - 🌱 I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)]()
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)]()
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)]()
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yovvis/count.svg)]() visitor, Thank You!🎉🎉
