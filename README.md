@@ -19,14 +19,11 @@ If you think you can , you can. Connect with me here -
 
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)]()
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)]()
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)]()
 
 - ⚙️ I also use and work:
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)]()
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)]()
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)]()
 
