@@ -5,7 +5,7 @@
 Time for art, sincere ambition into technology. Connect with me here -
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_meettyj@163.com)](mailto:find_meettyj@163.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/yovvis/nav/main/static/makeafriend.jpg)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/yovvis/nav/main/static/qrcode-yovvis.png)
 
 My blog here ~
 
