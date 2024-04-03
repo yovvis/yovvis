@@ -9,9 +9,9 @@ Time for art, sincere ambition into technology. Connect with me here -
 
 My blog here ~
 
-[![Yovvis's Blog](https://raw.githubusercontent.com/yovvis/nav/main/icon32/p.png)](https://blog.yovvis.top)
-[![掘金](https://raw.githubusercontent.com/yovvis/nav/main/icon32/juejin.png)](https://juejin.cn/user/776699375262679)
-[![CSDN](https://raw.githubusercontent.com/yovvis/nav/main/icon32/csdn.png)](https://blog.csdn.net/losthief?spm=1010.2135.3001.5343)
+[![Yovvis's Blog](https://raw.githubusercontent.com/yovvis/nav/main/pic/icon32/p.png)](https://blog.yovvis.top)
+[![掘金](https://raw.githubusercontent.com/yovvis/nav/main/pic/icon32/juejin.png)](https://juejin.cn/user/776699375262679)
+[![CSDN](https://raw.githubusercontent.com/yovvis/nav/main/pic/icon32/csdn.png)](https://blog.csdn.net/losthief?spm=1010.2135.3001.5343)
 
 
 
