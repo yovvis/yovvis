@@ -5,7 +5,7 @@
 Time for art, sincere ambition into technology. Connect with me here -
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_meettyj@163.com)](mailto:find_meettyj@163.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://api.oss.tenyon.cn/tenyon/assets/qrcode-wx.png)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://api.oss.tenyon.cn/tenyon/assets/qrcode_wx.png)
 
 My blog here ~
 
@@ -118,7 +118,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yovvis/c
 
 <br/>
 <div align="center">
-  <a href="https://api.oss.tenyon.cn/tenyon/assets/qrcode-donate.jpg" target="_blank" style="display: inline-block;">
+  <a href="https://api.oss.tenyon.cn/tenyon/assets/qrcode_donate.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
