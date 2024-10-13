@@ -5,13 +5,13 @@
 Time for art, sincere ambition into technology. Connect with me here -
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_meettyj@163.com)](mailto:find_meettyj@163.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/yovvis/nav/main/pic/icon32/qrcode-yovvis.png)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://api.oss.tenyon.cn/tenyon/assets/qrcode-wx.png)
 
 My blog here ~
 
-[![Yovvis's Blog](https://raw.githubusercontent.com/yovvis/nav/main/pic/icon32/p.png)](https://tenyon.cn)
-[![掘金](https://raw.githubusercontent.com/yovvis/nav/main/pic/icon32/juejin.png)](https://juejin.cn/user/776699375262679)
-[![CSDN](https://raw.githubusercontent.com/yovvis/nav/main/pic/icon32/csdn.png)](https://blog.csdn.net/losthief?spm=1010.2135.3001.5343)
+[![Blog](https://raw.githubusercontent.com/yovvis/nav/main/pic/icon32/p.png)](https://tenyon.cn)
+[![掘金](https://api.oss.tenyon.cn/tenyon/assets/icon/juejin.png)](https://juejin.cn/user/776699375262679)
+[![CSDN](https://api.oss.tenyon.cn/tenyon/assets/icon/csdn.png)](https://blog.csdn.net/losthief?spm=1010.2135.3001.5343)
 
 
 
@@ -118,7 +118,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yovvis/c
 
 <br/>
 <div align="center">
-  <a href="https://raw.githubusercontent.com/yovvis/nav/main/pic/icon32/qrcode-thumb.jpg" target="_blank" style="display: inline-block;">
+  <a href="https://api.oss.tenyon.cn/tenyon/assets/qrcode-donate.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
